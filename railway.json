@@ -1,0 +1,4 @@
+{
+  "build": "dotnet build TelegramExpenseBot/TelegramExpenseBot.csproj",
+  "start": "dotnet run --project TelegramExpenseBot/TelegramExpenseBot.csproj"
+}
